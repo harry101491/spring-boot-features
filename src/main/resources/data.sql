@@ -20,3 +20,7 @@ INSERT INTO student(id, name, passport_id) VALUES (2003, 'Adam', 3003);
 INSERT INTO reviews(id, rating, description) VALUES (4001, '4','Good course could be imporved');
 INSERT INTO reviews(id, rating, description) VALUES (4002, '5', 'Very good course');
 INSERT INTO reviews(id, rating, description) VALUES (4003, '3', 'Average course');
+
+INSERT INTO employee(id, first_name, last_name, email) VALUES (1001, 'harshit', 'pareek', 'xyz@nyu.edu');
+INSERT INTO employee(id, first_name, last_name, email) VALUES (1002, 'harshit', 'pareek', 'xyz@nyu.edu');
+INSERT INTO employee(id, first_name, last_name, email) VALUES (1003, 'harshit', 'pareek', 'xyz@nyu.edu');
