@@ -1,9 +1,6 @@
 package com.harshit.jpahibernate.model;
 
-import javax.persistence.Entity;
 
-
-@Entity()
 public class SearchCriteria {
     private String key;
     private String operation;
